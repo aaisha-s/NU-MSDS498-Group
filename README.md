@@ -1,7 +1,9 @@
 # NU-MSDS498-Group
 
-AWS Rekognition: pre-trained image recognition model
-Use functionality through the boto3 package to call label and face recognition.
+AWS Rekognition: pre-trained image recognition model. The tool can be tested and demoed using AWS's own demo tool - 
+https://us-east-2.console.aws.amazon.com/rekognition/home?region=us-east-2#/label-detection
+
+However, I wanted to go through the testing and analyze the labels in a code based method. For this reason I used functionality through the boto3 package to call label and face recognition. High level steps and code snippets are below. Check the attached images and Jupyter Notebook to dive deeper into the example. 
 
 https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rekognition.html
 
