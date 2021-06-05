@@ -39,4 +39,4 @@ choc_chip_response = client.detect_labels(
     print(label['Name'] + '\t' + str(round(label['Confidence'], 4)))
 ```
 
-## Similar steps and formatting included for the ```detect_faces``` method in the Jupyter Notebook
+#### Similar steps and formatting included for the ```detect_faces``` method in the Jupyter Notebook
